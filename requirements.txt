@@ -1,1 +1,2 @@
-# lxml/ElementTree, dateutil, (FastAPI optional)
+# No external dependencies required - all standard library
+# Python 3.7+
