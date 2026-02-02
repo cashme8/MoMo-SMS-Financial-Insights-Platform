@@ -7,7 +7,7 @@ set -e  # Exit on error
 cd "$(dirname "$0")/.." # Change to repo root
 
 echo "Running ETL Pipeline..."
-python3 etl/run.py
+python3 dsa/run.py
 
 echo ""
 echo "✓ ETL completed successfully"
